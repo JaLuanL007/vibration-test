@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B91BC402A7ADB2E00F4B525 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B91BC3F2A7ADB2E00F4B525 /* InterfaceController.swift */; };
 		3BF0A0C52A786077006A6FA4 /* heartrateTest Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 3BF0A0C42A786077006A6FA4 /* heartrateTest Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		3BF0A0CA2A786077006A6FA4 /* heartrateTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF0A0C92A786077006A6FA4 /* heartrateTestApp.swift */; };
 		3BF0A0CC2A786077006A6FA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF0A0CB2A786077006A6FA4 /* ContentView.swift */; };
@@ -56,6 +57,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3B91BC3F2A7ADB2E00F4B525 /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
 		3BF0A0BE2A786077006A6FA4 /* heartrateTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = heartrateTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BF0A0C42A786077006A6FA4 /* heartrateTest Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "heartrateTest Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BF0A0C92A786077006A6FA4 /* heartrateTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heartrateTestApp.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				3BF0A0CB2A786077006A6FA4 /* ContentView.swift */,
 				3BF0A0CD2A786079006A6FA4 /* Assets.xcassets */,
 				3BF0A0CF2A786079006A6FA4 /* Preview Content */,
+				3B91BC3F2A7ADB2E00F4B525 /* InterfaceController.swift */,
 			);
 			path = "heartrateTest Watch App";
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B91BC402A7ADB2E00F4B525 /* InterfaceController.swift in Sources */,
 				3BF0A0CC2A786077006A6FA4 /* ContentView.swift in Sources */,
 				3BF0A0CA2A786077006A6FA4 /* heartrateTestApp.swift in Sources */,
 			);
